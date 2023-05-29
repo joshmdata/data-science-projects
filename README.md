@@ -1,2 +1,2 @@
 # Portfolio-projects
-A collection projects I have worked on (or am working on) during my studies of data science.
+A collection of projects I have worked on (or am working on) during my studies of data science. Serveral of these projects were completed as part of the Data Science career path on Codecademy. The intention of these projects is to show the range of I what I studied and to have all the projects in one place for me to refer back to as necessary. Finally, I intend to add independent projects as I continue to study and hopefully deepen my knowledge of the many aspects of data science and it related fields. 
